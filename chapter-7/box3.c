@@ -6,6 +6,7 @@
 #define inf INFINITY
 #define N 7200
 
+
 int main(void)
 {
 	int nleft = N, t = 0;
